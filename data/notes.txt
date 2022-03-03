@@ -1,0 +1,9 @@
+https://morsecode.world/international/morse2.html
+https://rbutterworth.nfshost.com/Tables/morse/
+
+Timing
+dot	1
+dash	3
+between tones	1
+between letters	3
+between words	7
